@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/stutra-ai/pinayctv/builds/PinayCum.cs3",
+        "status": 1,
+        "version": -1,
+        "name": "PinayCum",
+        "internalName": "PinayCum",
+        "authors": [
+            "Grok"
+        ],
+        "description": "PinayCum.tv - Filipino / Pinay adult videos",
+        "fileSize": 11077,
+        "repositoryUrl": "https://github.com/stutra-ai/pinayctv",
+        "language": "tl",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://pinaycum.tv/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-e625e88f3ce3faa34502350ec43aba3b2e39d2d30dc9d716f66c6cf9c66ab265"
+    }
+]
